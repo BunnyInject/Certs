@@ -60,8 +60,8 @@
     "state": "Revoked"
   },
   "Xiamen":{
-    "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/Shanghai/Shanghai.p12",
-    "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/Shanghai/Shanghai.mobileprovision",
+    "p12": "https://github.com/BunnyInject/Certs/raw/main/Xiamen/Xiamen.p12",
+    "mobileprovision": "https://github.com/BunnyInject/Certs/raw/main/Xiamen/Xiamen.mobileprovision",
     "password": "123456",
     "state": "Revoked"
   }
