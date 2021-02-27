@@ -61,7 +61,7 @@
   },
   "Xiamen":{
     "p12": "https://github.com/BunnyInject/Certs/raw/main/Xiamen/Xiamen.p12",
-    "mobileprovision": "https://github.com/BunnyInject/Certs/raw/main/Xiamen/Xiamen.mobileprovision",
+    "mobileprovision": "https://github.com/BunnyInject/Certs/raw/main/Xiamen/embedded.mobileprovision",
     "password": "123456",
     "state": "Revoked"
   }
